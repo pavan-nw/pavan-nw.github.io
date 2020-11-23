@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Pavan",
-    "occupation": "Software Engineer",
+    "occupation": "Senior Software Engineer",
     "description":
-      "An enterprise developer with 4 years of experience in designing and developing enterprise application with Core Java, Node JS, React JS, Android.",
+      "An enterprise developer with 6 years of experience in designing and developing enterprise application with Java, RESTful APIs, Angular + NgRx, React JS, Android.",
     "image": "profilepic.jpg",
     "bio":
       "I am an enthusiastic team player, having decent skills in problem solving, object oriented design, core java, node js and other web technologies. Familar with Retail and Optical Networking domain as well",
@@ -58,9 +58,16 @@
     ],
     "work": [
       {
+        "company": "Vocera India Pvt Ltd. Bengaluru",
+        "title": "Full Stack Engineer",
+        "years": "June 2019 - Present",
+        "description":
+          "Working in health-care communication domain, on Clical Communication application. Nature of work involves design, develop and debug the end to end application using Java, REST, WebSockets, Angular (NgRX), RxJS, XMPP etc.."
+      },
+      {
         "company": "Infinera India Pvt Ltd. Bengaluru",
         "title": "Software Dev Engineer II",
-        "years": "November 2015 - Present",
+        "years": "November 2015 - June 2019",
         "description":
           "Working in telecom domain, on Network Management application. Nature of work involves design, develop and debug the core java based application with Multi-threading, exception handeling etc.."
       },
@@ -87,11 +94,19 @@
         "level": "90%"
       },
       {
+        "name": "Angular + NgRX",
+        "level": "90%"
+      },
+      {
+        "name": "RxJS",
+        "level": "80%"
+      },
+      {
         "name": "DS and Algo",
         "level": "70%"
       },
       {
-        "name": "RESTful WebServices",
+        "name": "RESTful WebServices & WebSockets",
         "level": "80%"
       },
       {
@@ -99,12 +114,8 @@
         "level": "60%"
       },
       {
-        "name": "Node JS",
-        "level": "70%"
-      },
-      {
         "name": "React JS",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "SQL and MongoDB",
