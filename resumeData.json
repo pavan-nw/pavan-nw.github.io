@@ -86,11 +86,15 @@
     ],
     "skills": [
       {
-        "name": "Core Java",
+        "name": "Java",
         "level": "90%"
       },
       {
         "name": "Object Oriented Design",
+        "level": "90%"
+      },
+      {
+        "name": "React JS",
         "level": "90%"
       },
       {
@@ -102,20 +106,16 @@
         "level": "80%"
       },
       {
-        "name": "DS and Algo",
-        "level": "70%"
-      },
-      {
         "name": "RESTful WebServices & WebSockets",
         "level": "80%"
       },
       {
-        "name": "HTML5 and CSS",
-        "level": "60%"
+        "name": "DS and Algo",
+        "level": "70%"
       },
       {
-        "name": "React JS",
-        "level": "90%"
+        "name": "HTML5 and CSS",
+        "level": "60%"
       },
       {
         "name": "SQL and MongoDB",
@@ -127,7 +127,7 @@
       },
       {
         "name": "Spring Boot",
-        "level": "60%"
+        "level": "70%"
       }
     ]
   },
